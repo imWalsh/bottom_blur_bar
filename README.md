@@ -12,7 +12,7 @@
 
 # Preview
 
-![bottom_blur_bar](https://github.com/imWalsh/bottom_blur_bar/bottom_blur_bar.gif)
+![bottom_blur_bar](https://github.com/imWalsh/bottom_blur_bar/blob/main/bottom_blur_bar.gif)
 
 
 ## Basic Usage
