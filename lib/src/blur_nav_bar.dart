@@ -87,7 +87,8 @@ class _BlurNavbarState extends State<BlurNavbar> with SingleTickerProviderStateM
             ),
             border: Border.all(
                 color: Colors.grey.withOpacity(0.35),
-                width: borderWidth
+                width: borderWidth,
+                strokeAlign: BorderSide.strokeAlignOutside
               )
           ),
           child: ClipRRect(

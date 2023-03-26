@@ -128,7 +128,7 @@ class _MyHomePageState extends State<MyHomePage> {
           debugPrint('$idx');
         }),
         items: [
-          BlurNavbarItem(icon: Icon(Icons.home, color: color, size: 24), title: "SEARCH"),
+          BlurNavbarItem(icon: Icon(Icons.home, color: color, size: 24), title: "HOME"),
           BlurNavbarItem(icon: Icon(Icons.search, color: color, size: 24), title: "SEARCH"),
           BlurNavbarItem(icon: Icon(Icons.notifications, color: color, size: 24), title: "NOTIFICATIONS"),
           BlurNavbarItem(icon: Icon(Icons.local_library_rounded, color: color, size: 24), title: "LIBRARY")

@@ -12,6 +12,13 @@
 
 # Preview
 
+<div align=center>
+<img src="https://github.com/imWalsh/bottom_blur_bar/blob/main/bottom_blur_bar.png"/>
+</div>
+<br>
+<br>
+
+
 ![bottom_blur_bar](https://github.com/imWalsh/bottom_blur_bar/blob/main/bottom_blur_bar.gif)
 
 
@@ -65,5 +72,5 @@ bottomNavigationBar: BlurNavbar(
 LICENSE!
 ------------
 **bottom_blur_bar**
-is [MIT-licensed.](https://github.com/imWalsh/bottom_blur_bar/LICENSE)
+is [MIT-licensed.](https://github.com/imWalsh/bottom_blur_bar/blob/main/LICENSE)
 
